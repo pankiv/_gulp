@@ -1,8 +1,5 @@
+@import "base";
 @import "vars";
-@import "../libs/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap";
-@import "header";
-@import "top-menu";
+@import "media";
 
-body {
-	background-color: pink;
-}
+
