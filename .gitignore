@@ -1,3 +1,5 @@
 /node_modules/
 /dist/
-/app/css/
+build/
+bower_components/
+.idea/
